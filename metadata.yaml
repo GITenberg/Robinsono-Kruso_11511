@@ -1,0 +1,42 @@
+_repo: Robinsono-Kruso_11511
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krafft, A.
+    gutenberg_agent_id: '5172'
+    url: http://www.gutenberg.org/2009/agents/5172
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - Defo, Daniel
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11511'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'English fiction -- Translations into Esperanto'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Robinsono Kruso
+url: http://www.gutenberg.org/ebooks/11511
